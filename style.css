@@ -1,0 +1,22 @@
+body {
+    text-align:center;
+    font-family: helvetica;
+    background: linear-gradient(90deg,#23dafa,#e026a2);
+  }
+  canvas {
+    border: 2px solid rgb(0, 0, 0);
+  }
+
+h3{
+    font-size: 100px;
+}
+
+h2{
+    font-size: 100px;
+}
+
+.naroto h3{
+  font-size: 100px;
+  color: #000000;
+}
+
